@@ -5,24 +5,24 @@
 
 ## Terms
 
-- Directory -> Folder
-- Terminal/Command Line -> Interface for text commands
-- CLI -> Command Line Interface (git karaken)
-- CD -> Change Directory
-- Code Editor -> Word processor for writing code
-- Repository -> Project, or the folder/place where your project is kept
-- Github -> A Website to host your repositories online
+- Directory &rarr; Folder
+- Terminal/Command Line &rarr; Interface for text commands
+- CLI &rarr; Command Line Interface (git karaken)
+- CD &rarr; Change Directory
+- Code Editor &rarr; Word processor for writing code
+- Repository &rarr; Project, or the folder/place where your project is kept
+- Github &rarr; A Website to host your repositories online
 
 ## Git Commands
 
-- Clone -> Bring a repository that is hosted somewhere like Github into a folder on your local machine
-- Add -> Track your files and changes in Git
-- Commit -> Save your files in Git
-- Push -> Upload Git commits to a remote repo, like Github, Gitlab and 	BitBucket
-- pull -> Download changes from the remote repo to your local machine, 	the opposite of push
+- Clone &rarr; Bring a repository that is hosted somewhere like Github into a folder on your local machine
+- Add &rarr; Track your files and changes in Git
+- Commit &rarr; Save your files in Git
+- Push &rarr; Upload Git commits to a remote repo, like Github, Gitlab and 	BitBucket
+- pull &rarr; Download changes from the remote repo to your local machine, 	the opposite of push
 
 ## Hints
 
-- git add . -> commits everything (both modified and created files)
-- -m -> means message and you need to have a message in order to commit your changes
-- -m -> the next means the description
+- git add . &rarr; commits everything (both modified and created files)
+- -m &rarr; means message and you need to have a message in order to commit your changes
+- -m &rarr; the next means the description
