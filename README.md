@@ -15,11 +15,11 @@
 
 ## Git Commands
 
-    - Clone -> Bring a repository that is hosted somewhere like Github into a folder on your local machine
-	- Add -> Track your files and changes in Git
-	- Commit -> Save your files in Git
-	- Push -> Upload Git commits to a remote repo, like Github, Gitlab and 	BitBucket
-	- pull -> Download changes from the remote repo to your local machine, 	the opposite of push
+- Clone -> Bring a repository that is hosted somewhere like Github into a folder on your local machine
+- Add -> Track your files and changes in Git
+- Commit -> Save your files in Git
+- Push -> Upload Git commits to a remote repo, like Github, Gitlab and 	BitBucket
+- pull -> Download changes from the remote repo to your local machine, 	the opposite of push
 
 ## Hints
 
