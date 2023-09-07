@@ -35,4 +35,4 @@
 - git add . &rarr; commits everything (both modified and created files)
 - -m &rarr; means message and you need to have a message in order to commit your changes
 - -m &rarr; the next means the description
-- ![./images/Github flow versus Local CLI flow.png](./images/Github flow versus Local CLI flow.png)
+<div><img src="/images/Github flow versus Local CLI flow.png" alt="Workflow" /></div>
