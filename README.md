@@ -3,9 +3,7 @@
 1. Git &rarr; Free and open source version control system.
 2. Version Control &rarr; The management of changes to docs, computer programs, large web sites, and other collections of information.
 3. Branch &rarr; We use branches to have different versions of a project at one time
-<div style="border-radius:50%">
-    <img src="/images/Github flow versus Local CLI flow.jpg" alt="Workflow" />
-</div>
+<img src="/images/Github flow versus Local CLI flow.jpg" alt="Workflow" />
 
 ## Terms
 
