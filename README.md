@@ -15,7 +15,7 @@
 
 ## Git Commands
 
-    - Clone -> Bring a repository that is hosted somewhere like Github into 	a folder on your local machine
+    - Clone -> Bring a repository that is hosted somewhere like Github into a folder on your local machine
 	- Add -> Track your files and changes in Git
 	- Commit -> Save your files in Git
 	- Push -> Upload Git commits to a remote repo, like Github, Gitlab and 	BitBucket
@@ -24,5 +24,5 @@
 ## Hints
 
     - git add . -> commits everything (both modified and created files)
-	- -m -> means message and you need to have a message in order to commit 	your changes
+	- -m -> means message and you need to have a message in order to commit your changes
 	- -m -> the next means the description
