@@ -1,4 +1,4 @@
-# Git Fundamentals
+# Personal Git Fundamentals Cheat Sheet
 
 1. Git &rarr; Free and open source version control system.
 2. Version Control &rarr; The management of changes to docs, computer programs, large web sites, and other collections of information.
