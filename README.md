@@ -24,10 +24,10 @@
 - pull &rarr; Download changes from the remote repo to your local machine, 	the opposite of push
 - init &rarr; To initialize a repository from a ready project
 - remote &rarr; To add a reference to the remote repository on Github (remote means somewhere out of the pc)
-    ```
-            git remote add origin repoLink
-            git push origin master
-        ```
+>    ```
+>    git remote add origin repoLink
+>    git push origin master
+>    ```
 - -v &rarr; Shows version
 
 
