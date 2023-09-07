@@ -23,10 +23,16 @@
 - pull &rarr; Download changes from the remote repo to your local machine, 	the opposite of push
 - init &rarr; To initialize a repository from a ready project
 - remote &rarr; To add a reference to the remote repository on Github (remote means somewhere out of the pc)
-    >   `git remote add origin repoLink`
+    >   ```
+            git remote add origin repoLink`
+            git push origin master
+        ```
+- -v &rarr; Shows version
+
 
 ## Hints
 
 - git add . &rarr; commits everything (both modified and created files)
 - -m &rarr; means message and you need to have a message in order to commit your changes
 - -m &rarr; the next means the description
+- (/images/Github flow versus Local CLI flow.png "Comparison")
