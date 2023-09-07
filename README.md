@@ -5,13 +5,13 @@
 
 ## Terms
 
-    - Directory -> Folder
-	- Terminal/Command Line -> Interface for text commands
-	- CLI -> Command Line Interface (git karaken)
-	- CD -> Change Directory
-	- Code Editor -> Word processor for writing code
-	- Repository -> Project, or the folder/place where your project is kept
-	- Github -> A Website to host your repositories online
+- Directory -> Folder
+- Terminal/Command Line -> Interface for text commands
+- CLI -> Command Line Interface (git karaken)
+- CD -> Change Directory
+- Code Editor -> Word processor for writing code
+- Repository -> Project, or the folder/place where your project is kept
+- Github -> A Website to host your repositories online
 
 ## Git Commands
 
@@ -23,6 +23,6 @@
 
 ## Hints
 
-    - git add . -> commits everything (both modified and created files)
-	- -m -> means message and you need to have a message in order to commit your changes
-	- -m -> the next means the description
+- git add . -> commits everything (both modified and created files)
+- -m -> means message and you need to have a message in order to commit your changes
+- -m -> the next means the description
