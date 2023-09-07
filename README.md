@@ -2,6 +2,7 @@
 
 1. Git &rarr; Free and open source version control system.
 2. Version Control &rarr; The management of changes to docs, computer programs, large web sites, and other collections of information.
+3. Branch &rarr; We use branches to have different versions of a project at one time
 
 ## Terms
 
@@ -20,6 +21,9 @@
 - Commit &rarr; Save your files in Git
 - Push &rarr; Upload Git commits to a remote repo, like Github, Gitlab and 	BitBucket
 - pull &rarr; Download changes from the remote repo to your local machine, 	the opposite of push
+- init &rarr; To initialize a repository from a ready project
+- remote &rarr; To add a reference to the remote repository on Github (remote means somewhere out of the pc)
+    git remote add origin ripoLink
 
 ## Hints
 
