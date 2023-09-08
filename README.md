@@ -4,6 +4,7 @@
 2. Version Control &rarr; The management of changes to docs, computer programs, large web sites, and other collections of information.
 3. Branch &rarr; We use branches to have different versions of a project at one time
 4. Pull Request (PR) &rarr; A Request to have your code pulled into another branch
+5. Stashing &rarr; To stash changes somewhere (not to commit) and retrieve them later
 <img src="/images/Github flow versus Local CLI flow.jpg" alt="Workflow" />
 <img src="/images/Git branching.png" alt="branching" />
 
@@ -39,7 +40,7 @@
     ```
 - branch &rarr; Shows all the branches and points to the current one
 - diff &rarr; Compares to versions of code and shows everything that have been changed
-- merge
+- merge &rarr; Not for merging branches into master but master gets updated as you go along, because maybe other people are merging to the master (it's gonna be difficult to merge later)
 - ```git branch -d branch-name```
 
 ## Hints
@@ -47,3 +48,11 @@
 - git add . &rarr; commits everything (both modified and created files)
 - -m &rarr; means message and you need to have a message in order to commit your changes
 - -m &rarr; the next means the description
+- -am &rarr; adding and message (only for modified)
+
+## Branches
+
+- Merging Conflict Issue
+    - use github
+    - use terminal
+    - the easiest way is to use vs code (directly)
