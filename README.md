@@ -3,6 +3,7 @@
 1. Git &rarr; Free and open source version control system.
 2. Version Control &rarr; The management of changes to docs, computer programs, large web sites, and other collections of information.
 3. Branch &rarr; We use branches to have different versions of a project at one time
+4. Pull Request (PR) &rarr; A Request to have your code pulled into another branch
 <img src="/images/Github flow versus Local CLI flow.jpg" alt="Workflow" />
 <img src="/images/Git branching.png" alt="branching" />
 
@@ -34,9 +35,11 @@
 - checkout &rarr; To switch between branches (to create a new branch add -b)
 
     ```
-    git checkout -b
+    git checkout -b branch-name
     ```
-
+- branch &rarr; Shows all the branches and points to the current one
+- diff &rarr; Compares to versions of code and shows everything that have been changed
+- merge
 
 ## Hints
 
