@@ -68,5 +68,6 @@ git reset README.md
 git reset HEAD
 git reset HEAD~1
 ```
+
 **HEAD** means last commit
-**HEAD~** means one step further commit
+**HEAD** means one step further commit
