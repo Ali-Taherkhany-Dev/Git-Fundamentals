@@ -34,8 +34,9 @@
 - checkout &rarr; To switch between branches (to create a new branch add -b)
 
     ```
-    git checkout -b
+    git checkout -b branch-name
     ```
+- branch &rarr; Shows all the branches and points to the current one
 
 
 ## Hints
