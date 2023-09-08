@@ -47,3 +47,4 @@
 - git add . &rarr; commits everything (both modified and created files)
 - -m &rarr; means message and you need to have a message in order to commit your changes
 - -m &rarr; the next means the description
+- -am &rarr; adding and message (only for modified)
