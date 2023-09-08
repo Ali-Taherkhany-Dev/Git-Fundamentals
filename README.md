@@ -31,6 +31,11 @@
     git push origin master
     ```
 - -v &rarr; Shows version
+- checkout &rarr; To switch between branches (to create a new branch add -b)
+
+    ```
+    git checkout -b
+    ```
 
 
 ## Hints
