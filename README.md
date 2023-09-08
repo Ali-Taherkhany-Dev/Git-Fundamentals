@@ -56,4 +56,3 @@
     - use github
     - use terminal
     - the easiest way is to use vs code (directly)
-    - old & 
