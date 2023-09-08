@@ -42,6 +42,7 @@
 - diff &rarr; Compares to versions of code and shows everything that have been changed
 - merge &rarr; Not for merging branches into master but master gets updated as you go along, because maybe other people are merging to the master (it's gonna be difficult to merge later)
 - ```git branch -d branch-name```
+- log &rarr; shows recent commits with hash (use hashes to reset them or ...)
 
 ## Hints
 
@@ -57,3 +58,15 @@
     - use terminal
     - the easiest way is to use vs code (directly)
     - old & new
+
+## Undoing
+
+To reset the staged and commited changes
+```
+git reset
+git reset README.md
+git reset HEAD
+git reset HEAD~1
+```
+**HEAD** means last commit
+**HEAD~** means one step further commit
