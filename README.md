@@ -37,7 +37,8 @@
     git checkout -b branch-name
     ```
 - branch &rarr; Shows all the branches and points to the current one
-
+- diff &rarr; Compares to versions of code and shows everything that have been changed
+- merge
 
 ## Hints
 
