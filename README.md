@@ -4,6 +4,7 @@
 2. Version Control &rarr; The management of changes to docs, computer programs, large web sites, and other collections of information.
 3. Branch &rarr; We use branches to have different versions of a project at one time
 <img src="/images/Github flow versus Local CLI flow.jpg" alt="Workflow" />
+<img src="/images/Git branching.png" alt="branching" />
 
 ## Terms
 
